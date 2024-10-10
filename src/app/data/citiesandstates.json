@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "departamento": "Amazonas",
+        "ciudad": "Leticia"
+    },
+    {
+        "id": 2,
+        "departamento": "Antioquia",
+        "ciudad": "Medellín"
+    },
+    {
+        "id": 3,
+        "departamento": "Arauca",
+        "ciudad": "Arauca"
+    },
+    {
+        "id": 4,
+        "departamento": "Atlantico",
+        "ciudad": "Barranquilla"
+    },
+    {
+        "id": 5,
+        "departamento": "Bolivar",
+        "ciudad": "Cartagena de Indias"
+    },
+    {
+        "id": 6,
+        "departamento": "Boyaca",
+        "ciudad": "Tunja"
+    },
+    {
+        "id": 7,
+        "departamento": "Caldas",
+        "ciudad": "Manizales"
+    },
+    {
+        "id": 8,
+        "departamento": "Caquetá",
+        "ciudad": "Florencia"
+    },
+    {
+        "id": 9,
+        "departamento": "Casanare",
+        "ciudad": "Yopal"
+    },
+    {
+        "id": 10,
+        "departamento": "Cauca",
+        "ciudad": "Popayán"
+    },
+    {
+        "id": 11,
+        "departamento": "Cesar",
+        "ciudad": "Valledupar"
+    },
+    {
+        "id": 12,
+        "departamento": "Chocó",
+        "ciudad": "Quibdó"
+    },
+    {
+        "id": 13,
+        "departamento": "Córdoba",
+        "ciudad": "Montería"
+    },
+    {
+        "id": 14,
+        "departamento": "Cundinamarca",
+        "ciudad": "Bogotá"
+    },
+    {
+        "id": 15,
+        "departamento": "Guainía",
+        "ciudad": "Inírida"
+    },
+    {
+        "id": 16,
+        "departamento": "Guaviare",
+        "ciudad": "San josé del guaviare"
+    },
+    {
+        "id": 17,
+        "departamento": "Huila",
+        "ciudad": "Neiva"
+    },
+    {
+        "id": 18,
+        "departamento": "La Guajira",
+        "ciudad": "Riohacha"
+    },
+    {
+        "id": 19,
+        "departamento": "Magdalena",
+        "ciudad": "Santa Marta"
+    },
+    {
+        "id": 20,
+        "departamento": "Meta",
+        "ciudad": "Villavicencio"
+    },
+    {
+        "id": 21,
+        "departamento": "Nariño",
+        "ciudad": "Pasto"
+    },
+    {
+        "id": 22,
+        "departamento": "Norte de Santander",
+        "ciudad": "Cúcuta"
+    },
+    {
+        "id": 23,
+        "departamento": "Putumayo",
+        "ciudad": "Mocoa"
+    },
+    {
+        "id": 24,
+        "departamento": "Quindío",
+        "ciudad": "Armenia"
+    },
+    {
+        "id": 25,
+        "departamento": "Risaralda",
+        "ciudad": "Pereira"
+    },
+    {
+        "id": 26,
+        "departamento": "San Andrés y Providencia",
+        "ciudad": "San Andrés"
+    },
+    {
+        "id": 27,
+        "departamento": "Santander",
+        "ciudad": "Bucaramanga"
+    },
+    {
+        "id": 28,
+        "departamento": "Sucre",
+        "ciudad": "Sincelejo"
+    },
+    {
+        "id": 29,
+        "departamento": "Tolima",
+        "ciudad": "Ibagué"
+    },
+    {
+        "id": 30,
+        "departamento": "Valle del Cauca",
+        "ciudad": "Cali"
+    },
+    {
+        "id": 31,
+        "departamento": "Vaupés",
+        "ciudad": "Mitú"
+    },
+    {
+        "id": 32,
+        "departamento": "Vichada",
+        "ciudad": "Puerto Carreño"
+    }
+]
