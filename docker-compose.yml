@@ -1,0 +1,11 @@
+services:
+  nextjs-app:
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - /app/node_modules
+    command: npm start
